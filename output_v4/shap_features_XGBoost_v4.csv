@@ -1,0 +1,13 @@
+feature,shap,grupo
+clicks_2a_metade,1.1462591,interacao
+weighted_score,0.5933832,avaliacao
+active_days,0.4806072,interacao
+score_por_submissao,0.4342907,avaliacao
+num_late,0.35731938,avaliacao
+studied_credits,0.26305833,perfil
+score_variance,0.22718462,avaliacao
+unique_activities,0.17549749,interacao
+highest_education,0.121993065,perfil
+PC[avg_clicks_por_dia+clicks_por_dia_ativo]_1,0.10358266,interacao
+imd_band_ord,0.08724898,perfil
+disability,0.042570986,perfil

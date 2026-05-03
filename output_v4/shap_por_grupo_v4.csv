@@ -1,0 +1,13 @@
+modelo,rank,grupo,shap_medio
+Random Forest,1,avaliacao,0.054438027331155575
+Random Forest,2,interacao,0.03964635961818186
+Random Forest,3,perfil,0.01015189911726187
+XGBoost,1,interacao,0.4764866232872009
+XGBoost,2,avaliacao,0.4030444622039795
+XGBoost,3,perfil,0.128717839717865
+Logistic Regression,1,avaliacao,0.6727320064928237
+Logistic Regression,2,interacao,0.31000857999659
+Logistic Regression,3,perfil,0.13630198714499991
+MLP,1,interacao,0.06352730930989263
+MLP,2,avaliacao,0.04147330963636947
+MLP,3,perfil,0.013983732440005222
